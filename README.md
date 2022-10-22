@@ -14,11 +14,7 @@ ls
 
 - Clonar el proyecto y cambiar de rama
 ```bash
-git clone https://github.com/profecoder/django-coderhouse-project.git
-
-cd django-coderhouse-project
-
-git checkout class_20_playground_II
+git clone https://github.com/profecoder/after_2022_10_22.git
 ```
 
 ### 3. Crear y activar entorno virtual
